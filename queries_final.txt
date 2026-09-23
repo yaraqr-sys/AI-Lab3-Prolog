@@ -1,0 +1,56 @@
+[1mtrue.[0m
+
+father(ali, yara).
+
+
+[1mtrue.[0m
+
+father(ali, saad).
+
+
+[1mtrue.[0m
+
+mother(fatima, deema).
+
+
+[1mtrue.[0m
+
+ mother(fatima, faisal).
+
+
+[1mtrue.[0m
+
+sister(X, yara).
+
+
+X = deema ;[1m;[0m
+X = deema ;[1m;[0m
+X = leena ;[1m;[0m
+X = leena.
+
+sister(X, leena).
+
+
+X = yara ;[1m;[0m
+X = yara ;[1m;[0m
+X = deema ;[1m;[0m
+X = deema 
+[1m.[0m
+
+brother(X, yara).
+
+
+X = saad ;[1m;[0m
+X = saad ;[1m;[0m
+X = faisal ;[1m;[0m
+X = faisal.
+
+brother(saad, faisal).
+
+
+[1mtrue [0m
+[1m.[0m
+
+noprotocol.
+
+
